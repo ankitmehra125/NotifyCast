@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893560595813",
+    "project_id": "notifycast-a7a30",
+    "storage_bucket": "notifycast-a7a30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893560595813:android:fbccbf19da9dc59099ad8c",
+        "android_client_info": {
+          "package_name": "com.example.notify_cast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-oV9dlBaq_Ak9A89TwQghLYHJ9ERwMHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
